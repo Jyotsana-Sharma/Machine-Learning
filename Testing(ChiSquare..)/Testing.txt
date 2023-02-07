@@ -1,0 +1,8 @@
+Contents of Testing.txt 
+1.Anova_Test
+2.ChiSquare_Test
+3.OneSampletTest
+4.PairedTtest
+5.speedTest
+6.test
+7.TwoSampleTtest
